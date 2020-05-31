@@ -2979,3 +2979,31 @@ img{
 
 	
 }
+.call-us-btn{
+	position: fixed;
+	left: 20px;
+	bottom: 20px;
+	color: white;
+	background-color: #00d999;
+	z-index: 999;
+	border-radius: 30px;
+	height: 60px;
+	width: 60px;
+	line-height: 60px;
+	vertical-align: middle;
+	text-align: center;
+}
+.call-us-btn a{
+	font-size: 30px;
+	margin-top: 15px; 
+	color: white;
+}
+.header-top{
+	background-color: #242424;display: inline;border-top: 1px solid #434343;float: left;width: 100%;
+}
+.header-top p a{
+	color: white;
+}
+.header-social{
+	display: inline;float: right;margin: 0px 0px;width: 100%;
+}
