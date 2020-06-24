@@ -1,0 +1,709 @@
+Searching 100 files for "single-from-blog"
+
+/Applications/MAMP/htdocs/4/assets/css/theme-color/bridge-theme.css:
+  105    background-color: #a5d549;  
+  106  }
+  107: .single-from-blog .blog-title h2 a:hover,
+  108: .single-from-blog .blog-title h2 a:focus{
+  109    color: #a5d549; 
+  110  }
+  111: .single-from-blog .blog-title .blog-admin{
+  112    color: #a5d549;
+  113  }
+  114: .single-from-blog .blog-footer a:hover,
+  115: .single-from-blog .blog-footer a:focus { 
+  116    color: #a5d549;
+  117  }
+
+/Applications/MAMP/htdocs/4/assets/css/theme-color/dark-red-theme.css:
+  103    background-color: #970001;  
+  104  }
+  105: .single-from-blog .blog-title h2 a:hover,
+  106: .single-from-blog .blog-title h2 a:focus{
+  107    color: #970001; 
+  108  }
+  109: .single-from-blog .blog-title .blog-admin{
+  110    color: #970001;
+  111  }
+  112: .single-from-blog .blog-footer a:hover,
+  113: .single-from-blog .blog-footer a:focus { 
+  114    color: #970001;
+  115  }
+
+/Applications/MAMP/htdocs/4/assets/css/theme-color/default.css:
+  103    background-color: #00d999;  
+  104  }
+  105: .single-from-blog .blog-title h2 a:hover,
+  106: .single-from-blog .blog-title h2 a:focus{
+  107    color: #00d999; 
+  108  }
+  109: .single-from-blog .blog-title .blog-admin{
+  110    color: #00d999;
+  111  }
+  112: .single-from-blog .blog-footer a:hover,
+  113: .single-from-blog .blog-footer a:focus { 
+  114    color: #00d999;
+  115  }
+
+/Applications/MAMP/htdocs/4/assets/css/theme-color/green-theme.css:
+  103    background-color: #3fc35f;  
+  104  }
+  105: .single-from-blog .blog-title h2 a:hover,
+  106: .single-from-blog .blog-title h2 a:focus{
+  107    color: #3fc35f; 
+  108  }
+  109: .single-from-blog .blog-title .blog-admin{
+  110    color: #3fc35f;
+  111  }
+  112: .single-from-blog .blog-footer a:hover,
+  113: .single-from-blog .blog-footer a:focus { 
+  114    color: #3fc35f;
+  115  }
+
+/Applications/MAMP/htdocs/4/assets/css/theme-color/lite-blue-theme.css:
+  102    background-color: #37c6f5;  
+  103  }
+  104: .single-from-blog .blog-title h2 a:hover,
+  105: .single-from-blog .blog-title h2 a:focus{
+  106    color: #37c6f5; 
+  107  }
+  108: .single-from-blog .blog-title .blog-admin{
+  109    color: #37c6f5;
+  110  }
+  111: .single-from-blog .blog-footer a:hover,
+  112: .single-from-blog .blog-footer a:focus { 
+  113    color: #37c6f5;
+  114  }
+
+/Applications/MAMP/htdocs/4/assets/css/theme-color/orange-theme.css:
+  102    background-color: #ff871c;  
+  103  }
+  104: .single-from-blog .blog-title h2 a:hover,
+  105: .single-from-blog .blog-title h2 a:focus{
+  106    color: #ff871c; 
+  107  }
+  108: .single-from-blog .blog-title .blog-admin{
+  109    color: #ff871c;
+  110  }
+  111: .single-from-blog .blog-footer a:hover,
+  112: .single-from-blog .blog-footer a:focus { 
+  113    color: #ff871c;
+  114  }
+
+/Applications/MAMP/htdocs/4/assets/css/theme-color/pink-theme.css:
+  103    background-color: #ff2851;  
+  104  }
+  105: .single-from-blog .blog-title h2 a:hover,
+  106: .single-from-blog .blog-title h2 a:focus{
+  107    color: #ff2851; 
+  108  }
+  109: .single-from-blog .blog-title .blog-admin{
+  110    color: #ff2851;
+  111  }
+  112: .single-from-blog .blog-footer a:hover,
+  113: .single-from-blog .blog-footer a:focus { 
+  114    color: #ff2851;
+  115  }
+
+/Applications/MAMP/htdocs/4/assets/css/theme-color/purple-theme.css:
+  102    background-color: #c762cb;  
+  103  }
+  104: .single-from-blog .blog-title h2 a:hover,
+  105: .single-from-blog .blog-title h2 a:focus{
+  106    color: #c762cb; 
+  107  }
+  108: .single-from-blog .blog-title .blog-admin{
+  109    color: #c762cb;
+  110  }
+  111: .single-from-blog .blog-footer a:hover,
+  112: .single-from-blog .blog-footer a:focus { 
+  113    color: #c762cb;
+  114  }
+
+/Applications/MAMP/htdocs/4/assets/css/theme-color/red-theme.css:
+  103    background-color: #ee4532;  
+  104  }
+  105: .single-from-blog .blog-title h2 a:hover,
+  106: .single-from-blog .blog-title h2 a:focus{
+  107    color: #ee4532; 
+  108  }
+  109: .single-from-blog .blog-title .blog-admin{
+  110    color: #ee4532;
+  111  }
+  112: .single-from-blog .blog-footer a:hover,
+  113: .single-from-blog .blog-footer a:focus { 
+  114    color: #ee4532;
+  115  }
+
+/Applications/MAMP/htdocs/4/assets/css/theme-color/yellow-theme.css:
+  103    background-color: #ffff00;  
+  104  }
+  105: .single-from-blog .blog-title h2 a:hover,
+  106: .single-from-blog .blog-title h2 a:focus{
+  107    color: #ffff00; 
+  108  }
+  109: .single-from-blog .blog-title .blog-admin{
+  110    color: #ffff00;
+  111  }
+  112: .single-from-blog .blog-footer a:hover,
+  113: .single-from-blog .blog-footer a:focus { 
+  114    color: #ffff00;
+  115  }
+
+/Applications/MAMP/htdocs/4/blog-archive.html:
+  112                  <div class="blog-left blog-archive">
+  113                    <!-- Start single blog post -->
+  114:                   <article class="single-from-blog">
+  115                      <figure>
+  116                        <a href="blog-single.html"><img alt="img" src="assets/images/the-sky.jpg"></a>
+  ...
+  128                    <!-- End single blog post -->
+  129                    <!-- Start single blog post -->
+  130:                   <article class="single-from-blog">
+  131                      <figure>
+  132                        <a href="blog-single.html"><img alt="img" src="assets/images/the-sky.jpg"></a>
+  ...
+  144                    <!-- End single blog post -->
+  145                    <!-- Start single blog post -->
+  146:                   <article class="single-from-blog">
+  147                      <figure>
+  148                        <a href="blog-single.html"><img alt="img" src="assets/images/the-sky.jpg"></a>
+
+/Applications/MAMP/htdocs/4/blog-single.html:
+  112                  <div class="blog-left blog-details">
+  113                    <!-- Start single blog post -->
+  114:                   <article class="single-from-blog">                    
+  115                      <div class="blog-title">
+  116                        <h2>Here is the post title</h2>
+
+/Applications/MAMP/htdocs/4/index.html:
+  714                <div class="row">
+  715                  <div class="col-md-4">
+  716:                   <article class="single-from-blog">
+  717                      <figure>
+  718                        <a href="blog-single.html"><img src="assets/images/the-sky.jpg" alt="img"></a>
+  ...
+  730                  </div>
+  731                  <div class="col-md-4">
+  732:                   <article class="single-from-blog">
+  733                      <figure>
+  734                        <a href="blog-single.html"><img src="assets/images/photographer.jpg" alt="img"></a>
+  ...
+  746                  </div>
+  747                  <div class="col-md-4">
+  748:                   <article class="single-from-blog">
+  749                      <figure>
+  750                        <a href="blog-single.html"><img src="assets/images/sealand.jpg" alt="img"></a>
+
+/Applications/MAMP/htdocs/4/index1.html:
+  159                <div class="row">
+  160                  <div class="col-md-3">
+  161:                   <article class="single-from-blog">
+  162                      <figure>
+  163                        <a href="#"><img src="assets/images/instant-cash.jpeg" alt="instant-cash"></a>
+  ...
+  172                  </div>
+  173                  <div class="col-md-3">
+  174:                   <article class="single-from-blog">
+  175                      <figure>
+  176                        <a href="blog-single.html"><img src="assets/images/credit-card-swip.jpg" alt="credit-card-swip"></a>
+  ...
+  184                  </div>
+  185                  <div class="col-md-3">
+  186:                   <article class="single-from-blog">
+  187                      <figure>
+  188                        <a href="#"><img src="assets/images/online-payment.jpg" alt="online-payment"></a>
+  ...
+  196                  </div>
+  197                  <div class="col-md-3">
+  198:                   <article class="single-from-blog">
+  199                      <figure>
+  200                        <a href="blog-single.html"><img src="assets/images/credit-card-cash.jpeg" alt="img"></a>
+
+/Applications/MAMP/htdocs/4/style.css:
+ 1372  	width: 100%;
+ 1373  }
+ 1374: .single-from-blog {
+ 1375  	background-color: #fff;
+ 1376  	display: inline;
+ ....
+ 1378  	width: 100%;
+ 1379  }
+ 1380: .single-from-blog figure{
+ 1381  	display: inline;
+ 1382  	float: left;
+ 1383  	width: 100%;
+ 1384  }
+ 1385: .single-from-blog figure img{
+ 1386  	width: 100%;
+ 1387  }
+ 1388: .single-from-blog .blog-title {
+ 1389  	display: inline;
+ 1390  	float: left;
+ ....
+ 1392  	width: 100%;
+ 1393  }
+ 1394: .single-from-blog .blog-title h2 {
+ 1395  	color: #3e3e3e;
+ 1396  	font-size: 28px;
+ ....
+ 1402  	transition: all 0.5s;
+ 1403  }
+ 1404: .single-from-blog .blog-title h2 a {  
+ 1405  	-webkit-transition: all 0.5s;
+ 1406  	-moz-transition: all 0.5s;
+ ....
+ 1409  	transition: all 0.5s;
+ 1410  }
+ 1411: .single-from-blog .blog-title h2 a:hover,
+ 1412: .single-from-blog .blog-title h2 a:focus{	
+ 1413  	text-decoration: none;
+ 1414  	outline: none;
+ 1415  }
+ 1416: .single-from-blog .blog-title p{
+ 1417  	color: #7c7c7c;
+ 1418  	font-size: 13px;
+ 1419  	font-style: italic;
+ 1420  }
+ 1421: .single-from-blog > p {
+ 1422  	color: #757575;
+ 1423  	padding: 20px 20px 10px;
+ 1424  }
+ 1425: .single-from-blog .blog-footer {
+ 1426  	display: inline;
+ 1427  	float: left;
+ ....
+ 1429  	width: 100%;
+ 1430  }
+ 1431: .single-from-blog .blog-footer a {
+ 1432  	color: #818181;
+ 1433  	font-size: 14px;
+ ....
+ 1439  	transition: all 0.5s;
+ 1440  }
+ 1441: .single-from-blog .blog-footer a:hover,
+ 1442: .single-from-blog .blog-footer a:focus {
+ 1443  	text-decoration: none;
+ 1444  	outline: none;	
+ 1445  }
+ 1446: .single-from-blog .blog-footer a span {
+ 1447  	border: 1px solid;
+ 1448  	border-radius: 50%;
+ ....
+ 1748  	width: 100%;
+ 1749  }
+ 1750: .blog-archive .single-from-blog{
+ 1751  	margin-bottom: 35px;
+ 1752  }
+ 1753: .blog-archive .single-from-blog figure img {
+ 1754  	height: 400px;  
+ 1755  }
+ ....
+ 2230  	  font-size: 14px;	  
+ 2231  	}
+ 2232: 	.single-from-blog .blog-title h2 {
+ 2233  	  font-size: 25px;  
+ 2234  	}
+ 2235: 	.single-from-blog .blog-footer a {
+ 2236  	  margin-right: 18px;
+ 2237  	}
+ ....
+ 2246  	  padding: 125px 0;  
+ 2247  	}
+ 2248: 	.blog-archive .single-from-blog figure img {
+ 2249  	  height: 320px;
+ 2250  	}
+ ....
+ 2360  	  padding: 12px 35px;
+ 2361  	}
+ 2362: 	.single-from-blog {  
+ 2363  	  margin-bottom: 30px;
+ 2364  	}
+ ....
+ 2855  	  width: 40px;
+ 2856  	}
+ 2857: 	.blog-archive .single-from-blog figure img {
+ 2858  	  height: 250px;
+ 2859  	}
+ ....
+ 2945  	  font-size: 15px;	
+ 2946  	}
+ 2947: 	.blog-archive .single-from-blog figure img {
+ 2948  	  height: 200px;
+ 2949  	}
+
+84 matches across 15 files
+
+
+Searching 100 files for "single-from-blog"
+
+/Applications/MAMP/htdocs/4/assets/css/theme-color/bridge-theme.css:
+  105    background-color: #a5d549;  
+  106  }
+  107: .single-from-blog .blog-title h2 a:hover,
+  108: .single-from-blog .blog-title h2 a:focus{
+  109    color: #a5d549; 
+  110  }
+  111: .single-from-blog .blog-title .blog-admin{
+  112    color: #a5d549;
+  113  }
+  114: .single-from-blog .blog-footer a:hover,
+  115: .single-from-blog .blog-footer a:focus { 
+  116    color: #a5d549;
+  117  }
+
+/Applications/MAMP/htdocs/4/assets/css/theme-color/dark-red-theme.css:
+  103    background-color: #970001;  
+  104  }
+  105: .single-from-blog .blog-title h2 a:hover,
+  106: .single-from-blog .blog-title h2 a:focus{
+  107    color: #970001; 
+  108  }
+  109: .single-from-blog .blog-title .blog-admin{
+  110    color: #970001;
+  111  }
+  112: .single-from-blog .blog-footer a:hover,
+  113: .single-from-blog .blog-footer a:focus { 
+  114    color: #970001;
+  115  }
+
+/Applications/MAMP/htdocs/4/assets/css/theme-color/default.css:
+  103    background-color: #00d999;  
+  104  }
+  105: .single-from-blog .blog-title h2 a:hover,
+  106: .single-from-blog .blog-title h2 a:focus{
+  107    color: #00d999; 
+  108  }
+  109: .single-from-blog .blog-title .blog-admin{
+  110    color: #00d999;
+  111  }
+  112: .single-from-blog .blog-footer a:hover,
+  113: .single-from-blog .blog-footer a:focus { 
+  114    color: #00d999;
+  115  }
+
+/Applications/MAMP/htdocs/4/assets/css/theme-color/green-theme.css:
+  103    background-color: #3fc35f;  
+  104  }
+  105: .single-from-blog .blog-title h2 a:hover,
+  106: .single-from-blog .blog-title h2 a:focus{
+  107    color: #3fc35f; 
+  108  }
+  109: .single-from-blog .blog-title .blog-admin{
+  110    color: #3fc35f;
+  111  }
+  112: .single-from-blog .blog-footer a:hover,
+  113: .single-from-blog .blog-footer a:focus { 
+  114    color: #3fc35f;
+  115  }
+
+/Applications/MAMP/htdocs/4/assets/css/theme-color/lite-blue-theme.css:
+  102    background-color: #37c6f5;  
+  103  }
+  104: .single-from-blog .blog-title h2 a:hover,
+  105: .single-from-blog .blog-title h2 a:focus{
+  106    color: #37c6f5; 
+  107  }
+  108: .single-from-blog .blog-title .blog-admin{
+  109    color: #37c6f5;
+  110  }
+  111: .single-from-blog .blog-footer a:hover,
+  112: .single-from-blog .blog-footer a:focus { 
+  113    color: #37c6f5;
+  114  }
+
+/Applications/MAMP/htdocs/4/assets/css/theme-color/orange-theme.css:
+  102    background-color: #ff871c;  
+  103  }
+  104: .single-from-blog .blog-title h2 a:hover,
+  105: .single-from-blog .blog-title h2 a:focus{
+  106    color: #ff871c; 
+  107  }
+  108: .single-from-blog .blog-title .blog-admin{
+  109    color: #ff871c;
+  110  }
+  111: .single-from-blog .blog-footer a:hover,
+  112: .single-from-blog .blog-footer a:focus { 
+  113    color: #ff871c;
+  114  }
+
+/Applications/MAMP/htdocs/4/assets/css/theme-color/pink-theme.css:
+  103    background-color: #ff2851;  
+  104  }
+  105: .single-from-blog .blog-title h2 a:hover,
+  106: .single-from-blog .blog-title h2 a:focus{
+  107    color: #ff2851; 
+  108  }
+  109: .single-from-blog .blog-title .blog-admin{
+  110    color: #ff2851;
+  111  }
+  112: .single-from-blog .blog-footer a:hover,
+  113: .single-from-blog .blog-footer a:focus { 
+  114    color: #ff2851;
+  115  }
+
+/Applications/MAMP/htdocs/4/assets/css/theme-color/purple-theme.css:
+  102    background-color: #c762cb;  
+  103  }
+  104: .single-from-blog .blog-title h2 a:hover,
+  105: .single-from-blog .blog-title h2 a:focus{
+  106    color: #c762cb; 
+  107  }
+  108: .single-from-blog .blog-title .blog-admin{
+  109    color: #c762cb;
+  110  }
+  111: .single-from-blog .blog-footer a:hover,
+  112: .single-from-blog .blog-footer a:focus { 
+  113    color: #c762cb;
+  114  }
+
+/Applications/MAMP/htdocs/4/assets/css/theme-color/red-theme.css:
+  103    background-color: #ee4532;  
+  104  }
+  105: .single-from-blog .blog-title h2 a:hover,
+  106: .single-from-blog .blog-title h2 a:focus{
+  107    color: #ee4532; 
+  108  }
+  109: .single-from-blog .blog-title .blog-admin{
+  110    color: #ee4532;
+  111  }
+  112: .single-from-blog .blog-footer a:hover,
+  113: .single-from-blog .blog-footer a:focus { 
+  114    color: #ee4532;
+  115  }
+
+/Applications/MAMP/htdocs/4/assets/css/theme-color/yellow-theme.css:
+  103    background-color: #ffff00;  
+  104  }
+  105: .single-from-blog .blog-title h2 a:hover,
+  106: .single-from-blog .blog-title h2 a:focus{
+  107    color: #ffff00; 
+  108  }
+  109: .single-from-blog .blog-title .blog-admin{
+  110    color: #ffff00;
+  111  }
+  112: .single-from-blog .blog-footer a:hover,
+  113: .single-from-blog .blog-footer a:focus { 
+  114    color: #ffff00;
+  115  }
+
+/Applications/MAMP/htdocs/4/blog-archive.html:
+  112                  <div class="blog-left blog-archive">
+  113                    <!-- Start single blog post -->
+  114:                   <article class="single-from-blog">
+  115                      <figure>
+  116                        <a href="blog-single.html"><img alt="img" src="assets/images/the-sky.jpg"></a>
+  ...
+  128                    <!-- End single blog post -->
+  129                    <!-- Start single blog post -->
+  130:                   <article class="single-from-blog">
+  131                      <figure>
+  132                        <a href="blog-single.html"><img alt="img" src="assets/images/the-sky.jpg"></a>
+  ...
+  144                    <!-- End single blog post -->
+  145                    <!-- Start single blog post -->
+  146:                   <article class="single-from-blog">
+  147                      <figure>
+  148                        <a href="blog-single.html"><img alt="img" src="assets/images/the-sky.jpg"></a>
+
+/Applications/MAMP/htdocs/4/blog-single.html:
+  112                  <div class="blog-left blog-details">
+  113                    <!-- Start single blog post -->
+  114:                   <article class="single-from-blog">                    
+  115                      <div class="blog-title">
+  116                        <h2>Here is the post title</h2>
+
+/Applications/MAMP/htdocs/4/index.html:
+  714                <div class="row">
+  715                  <div class="col-md-4">
+  716:                   <article class="single-from-blog">
+  717                      <figure>
+  718                        <a href="blog-single.html"><img src="assets/images/the-sky.jpg" alt="img"></a>
+  ...
+  730                  </div>
+  731                  <div class="col-md-4">
+  732:                   <article class="single-from-blog">
+  733                      <figure>
+  734                        <a href="blog-single.html"><img src="assets/images/photographer.jpg" alt="img"></a>
+  ...
+  746                  </div>
+  747                  <div class="col-md-4">
+  748:                   <article class="single-from-blog">
+  749                      <figure>
+  750                        <a href="blog-single.html"><img src="assets/images/sealand.jpg" alt="img"></a>
+
+/Applications/MAMP/htdocs/4/index1.html:
+  159                <div class="row">
+  160                  <div class="col-md-3">
+  161:                   <article class="single-from-blog">
+  162                      <figure>
+  163                        <a href="#"><img src="assets/images/instant-cash.jpeg" alt="instant-cash"></a>
+  ...
+  172                  </div>
+  173                  <div class="col-md-3">
+  174:                   <article class="single-from-blog">
+  175                      <figure>
+  176                        <a href="blog-single.html"><img src="assets/images/credit-card-swip.jpg" alt="credit-card-swip"></a>
+  ...
+  184                  </div>
+  185                  <div class="col-md-3">
+  186:                   <article class="single-from-blog">
+  187                      <figure>
+  188                        <a href="#"><img src="assets/images/online-payment.jpg" alt="online-payment"></a>
+  ...
+  196                  </div>
+  197                  <div class="col-md-3">
+  198:                   <article class="single-from-blog">
+  199                      <figure>
+  200                        <a href="blog-single.html"><img src="assets/images/credit-card-cash.jpeg" alt="img"></a>
+
+/Applications/MAMP/htdocs/4/style.css:
+ 1372  	width: 100%;
+ 1373  }
+ 1374: .single-from-blog {
+ 1375  	background-color: #fff;
+ 1376  	display: inline;
+ ....
+ 1378  	width: 100%;
+ 1379  }
+ 1380: .single-from-blog figure{
+ 1381  	display: inline;
+ 1382  	float: left;
+ 1383  	width: 100%;
+ 1384  }
+ 1385: .single-from-blog figure img{
+ 1386  	width: 100%;
+ 1387  }
+ 1388: .single-from-blog .blog-title {
+ 1389  	display: inline;
+ 1390  	float: left;
+ ....
+ 1392  	width: 100%;
+ 1393  }
+ 1394: .single-from-blog .blog-title h2 {
+ 1395  	color: #3e3e3e;
+ 1396  	font-size: 28px;
+ ....
+ 1402  	transition: all 0.5s;
+ 1403  }
+ 1404: .single-from-blog .blog-title h2 a {  
+ 1405  	-webkit-transition: all 0.5s;
+ 1406  	-moz-transition: all 0.5s;
+ ....
+ 1409  	transition: all 0.5s;
+ 1410  }
+ 1411: .single-from-blog .blog-title h2 a:hover,
+ 1412: .single-from-blog .blog-title h2 a:focus{	
+ 1413  	text-decoration: none;
+ 1414  	outline: none;
+ 1415  }
+ 1416: .single-from-blog .blog-title p{
+ 1417  	color: #7c7c7c;
+ 1418  	font-size: 13px;
+ 1419  	font-style: italic;
+ 1420  }
+ 1421: .single-from-blog > p {
+ 1422  	color: #757575;
+ 1423  	padding: 20px 20px 10px;
+ 1424  }
+ 1425: .single-from-blog .blog-footer {
+ 1426  	display: inline;
+ 1427  	float: left;
+ ....
+ 1429  	width: 100%;
+ 1430  }
+ 1431: .single-from-blog .blog-footer a {
+ 1432  	color: #818181;
+ 1433  	font-size: 14px;
+ ....
+ 1439  	transition: all 0.5s;
+ 1440  }
+ 1441: .single-from-blog .blog-footer a:hover,
+ 1442: .single-from-blog .blog-footer a:focus {
+ 1443  	text-decoration: none;
+ 1444  	outline: none;	
+ 1445  }
+ 1446: .single-from-blog .blog-footer a span {
+ 1447  	border: 1px solid;
+ 1448  	border-radius: 50%;
+ ....
+ 1748  	width: 100%;
+ 1749  }
+ 1750: .blog-archive .single-from-blog{
+ 1751  	margin-bottom: 35px;
+ 1752  }
+ 1753: .blog-archive .single-from-blog figure img {
+ 1754  	height: 400px;  
+ 1755  }
+ ....
+ 2230  	  font-size: 14px;	  
+ 2231  	}
+ 2232: 	.single-from-blog .blog-title h2 {
+ 2233  	  font-size: 25px;  
+ 2234  	}
+ 2235: 	.single-from-blog .blog-footer a {
+ 2236  	  margin-right: 18px;
+ 2237  	}
+ ....
+ 2246  	  padding: 125px 0;  
+ 2247  	}
+ 2248: 	.blog-archive .single-from-blog figure img {
+ 2249  	  height: 320px;
+ 2250  	}
+ ....
+ 2360  	  padding: 12px 35px;
+ 2361  	}
+ 2362: 	.single-from-blog {  
+ 2363  	  margin-bottom: 30px;
+ 2364  	}
+ ....
+ 2855  	  width: 40px;
+ 2856  	}
+ 2857: 	.blog-archive .single-from-blog figure img {
+ 2858  	  height: 250px;
+ 2859  	}
+ ....
+ 2945  	  font-size: 15px;	
+ 2946  	}
+ 2947: 	.blog-archive .single-from-blog figure img {
+ 2948  	  height: 200px;
+ 2949  	}
+
+84 matches across 15 files
+
+
+Searching 100 files for ".single-from-blog figure img"
+
+/Applications/MAMP/htdocs/4/style.css:
+ 1383  	width: 100%;
+ 1384  }
+ 1385: .single-from-blog figure img{
+ 1386  	width: 100%;
+ 		height: 200px;
+ 1387  }
+ ....
+ 1751  	margin-bottom: 35px;
+ 1752  }
+ 1753: .blog-archive .single-from-blog figure img {
+ 1754  	height: 400px;  
+ 1755  }
+ ....
+ 2246  	  padding: 125px 0;  
+ 2247  	}
+ 2248: 	.blog-archive .single-from-blog figure img {
+ 2249  	  height: 320px;
+ 2250  	}
+ ....
+ 2855  	  width: 40px;
+ 2856  	}
+ 2857: 	.blog-archive .single-from-blog figure img {
+ 2858  	  height: 250px;
+ 2859  	}
+ ....
+ 2945  	  font-size: 15px;	
+ 2946  	}
+ 2947: 	.blog-archive .single-from-blog figure img {
+ 2948  	  height: 200px;
+ 2949  	}
+
+5 matches in 1 file
