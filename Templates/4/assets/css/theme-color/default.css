@@ -41,12 +41,22 @@ Author URI : http://www.markups.io/
   border: 1px solid #00d999;
   color: #00d999;
 }
+
+/*ADDED BY DIPALI
 .single-wc-content:hover .wc-icon{
   background-color: #00d999;
 }
 .single-wc-content:hover .wc-tittle{
   border-bottom: 2px solid #00d999;  
+}*/
+ul li:nth-child(even) .single-wc-content .wc-icon{
+  background-color: #00d999;
+  color: white;
 }
+.single-wc-content:hover .wc-tittle{
+  border-bottom: 2px solid #00d999; 
+}
+
 .about-left {
   background-color: #00d999;  
 }

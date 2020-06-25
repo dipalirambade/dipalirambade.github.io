@@ -179,15 +179,25 @@ img{
 	float: left;
 	display: inline;
 	width: 100%;
+	/*ADDED BY DIPALI*/
+	height: 500px;
+	/*ADDED BY DIPALI*/
 }
+
 .header-inner{	
 	display: inline;
 	position: relative;
 	float: left;	
 	width: 100%;
+	/*ADDED BY DIPALI*/
+	height: 500px;
+	/*ADDED BY DIPALI*/
 }
 .header-inner>img{
 	width: 100%;
+	/*ADDED BY DIPALI*/
+	height: 500px;
+	/*ADDED BY DIPALI*/
 }
 .header-overlay{
 	background-color: rgba(0, 0, 0, 0.6);
@@ -201,7 +211,10 @@ img{
 .header-content {
 	float: left;
 	height: 100%;
+	/*Added by dipali
 	padding: 12% 140px 140px;
+	*/
+	padding: 7% 140px 140px;
 	text-align: center;
 	width: 100%;
 }
@@ -216,7 +229,8 @@ img{
 	line-height: 93px;
 }
 .header-btn-area{
-	margin-top: 90px;
+	/*Added by dipali
+	margin-top: 90px;*/
 	float: left;
 	display: inline;
 	width: 100%;
@@ -279,7 +293,8 @@ img{
 	border-radius: 0;
 	border-bottom: 1px solid #e7e7e7;  
 	border-right: medium none;
-	height: 100px;
+	/*ADDDED BY DIPALI height: 100px;*/
+	height: 80px;
 	margin-bottom: 0;
 	-webkit-box-shadow: 0px 2px 4px 0px #f3f3f3;
 	-moz-box-shadow: 0px 2px 4px 0px #f3f3f3;
@@ -294,7 +309,9 @@ img{
 	transition: all 0.5s;
 }
 .logo {
+	/* ADDED BY DIPALI
 	height: 100px;  
+	*/
 	width: 85px;
 	margin-right: 45px;
 	margin-top: -1px;
@@ -344,9 +361,13 @@ img{
 }
 .main-nav li a {
 	color: #636363;
-	font-size: 15px;
+	font-size: 14px;
+	/*ADDED BY DIPALI
 	padding: 39px 20px;
 	text-transform: uppercase;
+	*/
+	padding: 29px 20px;
+	
 	cursor: pointer;
 }
 .less-padding{
@@ -501,7 +522,9 @@ img{
 	color: #525252;
 	text-transform: uppercase;
 	font-size: 18px;
-	border-bottom: 1px solid #bbbbbb;
+	/*ADDED BY DIPALI*/
+	/*border-bottom: 1px solid #bbbbbb;*/
+	/*ADDED BY DIPALI*/
 	margin-top: 32px;
 	padding-bottom: 17px;	
 }
@@ -511,7 +534,7 @@ img{
 	padding: 12px;
 }
 .single-wc-content:hover .wc-icon{
-	color: #fff;
+	/*color: #fff;*/
 }
 .single-wc-content:hover .wc-tittle{
 	padding-bottom: 16px;	
@@ -684,7 +707,10 @@ img{
 }
 .call-to-content h2{
 	color: #fff7f7;
+	/*font-size: 45px;*/
+	/*ADDED BY DIPALI*/
 	font-size: 45px;
+	/*ADDED BY DIPALI*/
 }
 .call-to-content a {
 	display: inline-block;
@@ -889,6 +915,10 @@ img{
 	-ms-transition: all 0.5s;
 	-o-transition: all 0.5s;
 	transition: all 0.5s;
+	/*ADDED BY DIPALI*/
+	background-color: #fff;
+	height: 500px;
+	/*ADDED BY DIPALI*/
 }
 .single-service:after{
 	content: '';
@@ -911,12 +941,12 @@ img{
 	background-color: #fff;
 }
 .single-service .service-icon{
-	color: #bdbdbd;
+	color: #00d999;
 	font-size: 55px;
 	margin-bottom: 10px;
 }
 .single-service .service-title {
-	color: #343333;
+	color: #00d999;
 	font-size: 25px;
 	font-weight: 600;
 	margin-bottom: 30px;
@@ -3034,4 +3064,10 @@ img{
 }
 .header-social{
 	display: inline;float: right;margin: 0px 0px;width: 100%;
+}
+/*ADDED BY DIPALI*/
+.eye-catching{
+	height: 200px;
+	background-image: url("assets/images/eye-catching.jpg");
+  background-repeat: repeat-x;
 }
