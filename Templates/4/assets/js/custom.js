@@ -48,7 +48,11 @@ jQuery(function($){
 
 
 	jQuery(window).bind('scroll', function () {
-    if ($(window).scrollTop() > 700) {
+
+   /* 
+	ADDED BY DIPALI
+   if ($(window).scrollTop() > 700) {*/
+   	if ($(window).scrollTop() > 200) {
         $('.main-navbar').addClass('navbar-fixed-top');
         $('.logo').addClass('logo-compressed');
         $('.main-nav li a').addClass('less-padding');
@@ -268,5 +272,11 @@ jQuery(function($){
       }
     );
     wow.init();
+
+    $(".read-more").on("click", function(){
+    	var text = $(this).text();
+    	$(".read-more").text( text === "...Read more" ? "...Read less" : "...Read more");
+    	$(".single-service").toggleClass("read-more-sel");
+    });
 
 });

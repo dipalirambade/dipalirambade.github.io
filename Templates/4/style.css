@@ -39,10 +39,15 @@ body,html{
   	overflow-x:hidden;
 }
 body {
+	/* 	 ADDED BY DIPALI
 	font-family: 'Open Sans', sans-serif;
 	font-size: 14px;
 	overflow-x: hidden !important;
-	color: #838282;
+	color: #838282;*/
+	font-family: 'Raleway', Helvetica, Arial;
+	font-size: 16px;
+	overflow-x: hidden !important;
+	color: #545A5F;
 }
 ul{
 	padding: 0;
@@ -906,7 +911,8 @@ img{
 	display: inline;
 	float: left;
 	margin-bottom: 15px;
-	padding: 45px 20px;
+	/*padding: 45px 20px;*/
+	padding: 10px 10px;
 	position: relative;
 	text-align: left;
 	width: 100%;
@@ -917,8 +923,9 @@ img{
 	transition: all 0.5s;
 	/*ADDED BY DIPALI*/
 	background-color: #fff;
-	height: 500px;
+	height: 300px;
 	/*ADDED BY DIPALI*/
+	overflow: hidden;
 }
 .single-service:after{
 	content: '';
@@ -936,6 +943,29 @@ img{
 }
 .single-service:hover:after{
 	opacity: 1;
+}
+.single-service .read-more {
+	position: absolute;
+    background-color: #fff;
+    color: #00d999;
+    text-align: right;
+    padding-right: 10px;
+    bottom: 0;
+    width: 100%;
+    right: 0;
+    margin-bottom: 0;
+    font-size: 16px;
+    height: 20px;
+    z-index: 1;
+    cursor: pointer;
+    box-shadow: 1px -5px 9px 0px #fff;
+}
+.single-service.read-more-sel {
+	height: 600px;
+	overflow: visible;
+}
+.single-service.read-more-sel .read-more {
+
 }
 .single-service:hover{
 	background-color: #fff;
@@ -2209,7 +2239,9 @@ img{
 .error-message p a{
 	color: #4b8181;
 }
-
+.benifits-img{
+	height: 150px;width: 235px;
+}
 
 /*======================///////////////
 			start responsive style
@@ -2269,7 +2301,8 @@ img{
 	  margin: 0 2px;	 
 	}
 	.single-service {
-	  padding: 45px 15px;  
+	  /*padding: 45px 15px;  */
+	  padding: 10px 10px;  
 	}
 	.single-service .service-title {	  
 	  font-size: 20px;	  
@@ -2306,6 +2339,9 @@ img{
 	.blog-archive .single-from-blog figure img {
 	  height: 320px;
 	}
+	.benifits-img{
+	height: 125px;width: 185px;
+}
 }
 
 
@@ -2436,6 +2472,9 @@ img{
 	.error-message p {	 
 	  font-size: 25px;
 	  padding: 0 50px;
+	}
+	.benifits-img{
+	height: 125px;width: 185px;
 	}
 }
 
@@ -2593,7 +2632,9 @@ img{
 	  font-size: 20px;
 	  padding: 0 45px;
 	}
-
+	.benifits-img{
+	height: 125px;width: 250px;
+	}
 
 }
 
@@ -3071,3 +3112,4 @@ img{
 	background-image: url("assets/images/eye-catching.jpg");
   background-repeat: repeat-x;
 }
+

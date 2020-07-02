@@ -84,9 +84,9 @@ ul li:nth-child(even) .single-wc-content .wc-icon{
 .single-service {
   border-bottom: 5px solid #00d999;
 }
-.single-service:hover:after{  
+/*.single-service:hover:after{  
   background-color: #00d999;
-}
+}*/
 .single-service:hover .service-icon{
   color: #00d999;
 }
