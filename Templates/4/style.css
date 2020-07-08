@@ -964,7 +964,8 @@ img{
     box-shadow: 1px -5px 9px 0px #fff;
 }
 .single-service.read-more-sel {
-	height: 600px;
+	/*height: 600px;*/
+	height: 730px;
 	overflow: visible;
 }
 .single-service.read-more-sel .read-more {
