@@ -375,6 +375,9 @@ img{
 	
 	cursor: pointer;
 }
+.main-nav .sub-menu li a {
+    padding: 0px 20px !important;
+}
 .less-padding{
 	padding: 30px 20px !important;
 }
@@ -2474,7 +2477,7 @@ img{
 	  padding: 0 50px;
 	}
 	.benifits-img{
-	height: 125px;width: 185px;
+	height: 125px;width: 310px;
 	}
 }
 
@@ -2633,7 +2636,7 @@ img{
 	  padding: 0 45px;
 	}
 	.benifits-img{
-	height: 125px;width: 250px;
+	height: 125px;width: 310px;
 	}
 
 }
@@ -2782,6 +2785,9 @@ img{
 	.error-message p {
 	  font-size: 20px;
 	  padding: 0 45px;
+	}
+	.benifits-img{
+	height: 125px;width: 333px;
 	}
 
 }
