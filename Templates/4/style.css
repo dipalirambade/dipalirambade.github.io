@@ -1461,8 +1461,9 @@ img{
 	display: inline;
 	float: left;
 	width: 100%;
-	/*Added by dipali*/
-	height: 580px;
+	/*Added by dipali
+	height: 580px;*/
+	height: 655px;
 	/*Added by dipali*/
 }
 .single-from-blog figure{
