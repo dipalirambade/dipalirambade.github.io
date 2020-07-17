@@ -1464,7 +1464,7 @@ img{
 	width: 100%;
 	/*Added by dipali
 	height: 580px;*/
-	height: 655px;
+	height: 590px;
 	/*Added by dipali*/
 }
 .single-from-blog figure{
@@ -2563,6 +2563,8 @@ img{
 	.wc-table li {
 	  margin-bottom: 20px;
 	  width: 50%;
+	  /*Added by dipali*/
+	  height: 224px;
 	}
 	#about {
 	  padding: 0 0 50px;		
@@ -2639,8 +2641,16 @@ img{
 	}
 	.benifits-img{
 	height: 125px;width: 310px;
-	}
-
+	} /* Newly Added */
+    .navbar-collapse.in {
+    	overflow-y: visible;
+    }
+    .main-nav li .sub-menu {
+    	width: 100%;
+    } /* Newly Added */
+    .blog-left.blog-details .single-widget img {
+    	width:100% !important;
+    }
 }
 
 @media(max-width:480px ){
@@ -3083,8 +3093,6 @@ img{
 	.popular-post-widget .media-body {
 	  text-align: center;	  
 	}
-
-	
 }
 .call-us-btn{
 	position: fixed;
